@@ -1,0 +1,10 @@
+Flow ID,Description,Test Steps,Flow Priority
+1,Verify Navigation to Home Page and Accessing Docs Introduction,"step 1: Navigate to Page home
+step 2: At Page home click on hyperlink docs intro --> navigate to Page docs intro
+step 3: Add visual checkpoint at Page docs intro",High
+3,Verify Navigation to Docs Getting Started with PWA,"step 1: Navigate to Page docs getting-started pwa
+step 2: Add visual checkpoint at Page docs getting-started pwa",Medium
+2,Verify Navigation to Docs Setting Up Your Feed Filtering Content F,"step 1: Navigate to Page docs setting-up-your-feed filtering-content-f
+step 2: Add visual checkpoint at Page docs setting-up-your-feed filtering-content-f",Low
+4,Verify Navigation to Docs Getting Started with Browser Extension Installation,"step 1: Navigate to Page docs getting-started browser-extension-instal
+step 2: Add visual checkpoint at Page docs getting-started browser-extension-instal",Low
