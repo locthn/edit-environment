@@ -15,7 +15,7 @@ WebUI.navigateToUrl(GlobalVariable.application_domain + '')
 
 'step 2: Add visual checkpoint at Page docs setting-up-your-feed filtering-content-f'
 
-WebUI.takeFullPageScreenshotAsCheckpoint('TC2-Verify Navigation to Docs Setting Up Your Feed Filtering Content F_visual_checkpoint')
+WebUI.takeFullPageScreenshotAsCheckpoint('TC2-Verify Successful Navigation to Docs Setting Up Your Feed Filtering Content Page_visual_checkpoint')
 
 'Terminate test session: Close browser'
 
